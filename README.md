@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&animation=twinkling&text=Andrei%20Rassokhin"/>
+
 ### Hi there 👋
 
 [![](https://img.shields.io/badge/habr-629fbc?logoColor=fff&logo=habr&style=for-the-badge)](https://career.habr.com/rasosha)
@@ -11,20 +13,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-254994?logo=css3&logoColor=fff&style=for-the-badge)
 ![JS](https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=f7e01d&style=for-the-badge)
 ![TS](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=fff&style=for-the-badge)
-
 ![React](https://img.shields.io/badge/React-000?logo=react&style=for-the-badge)
 ![React Router](https://img.shields.io/badge/React%20Router-ca4245?logo=reactrouter&logoColor=fff&style=for-the-badge)
-
 ![git](https://img.shields.io/badge/git-f05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-333?logo=GitHub&logoColor=fff&style=for-the-badge)
 ![netlify](https://img.shields.io/badge/netlify-000?logo=netlify&logoColor=3db3b7&style=for-the-badge)
-
 ![webpack](https://img.shields.io/badge/webpack-333?logo=webpack&logoColor=8dd6f9&style=for-the-badge)
 ![vite](https://img.shields.io/badge/vite-646cff?logo=vite&logoColor=ff0&style=for-the-badge)
-
 ![npm](https://img.shields.io/badge/npm-cb0000?logo=npm&logoColor=fff&style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
 ![figma](https://img.shields.io/badge/figma-f14e1c?logo=figma&logoColor=fff&style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-001E36?&logo=adobephotoshop&style=for-the-badge)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -35,20 +32,15 @@ I’m currently studying in [RS School](https://rs.school/react/)
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-
 ### Contacts
 [![](https://img.shields.io/badge/telegram-@rasosha7-white?logo=telegram&labelColor=FFF&color=25a3e2&style=for-the-badge)](https://t.me/rasosha7)
-
 [![](https://img.shields.io/badge/discord-@rasosha%236882-white?logo=discord&labelColor=FFF&color=5865f2&style=for-the-badge)](https://discord.com/users/rasosha#6882)
-
 [![](https://img.shields.io/badge/gmail-rasosha@gmail.com-white?logo=gmail&logoColor=d9644d&labelColor=FFF&color=e05d44&style=for-the-badge)](mailto:rasosha@gmail.com)
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling&text="/>
