@@ -56,7 +56,7 @@
 
 - [RS School JavaScript/Front-end 2022Q3](https://app.rs.school/certificate/qi69aaz5)
 - [React 2023 Q1](todo:add.link)
-- [EF SET English level C1 Advanced](todo:add.link)
+- [EF SET English level C2 Proficient](https://www.efset.org/cert/CzRdMa)
 
 ### My CVs:
 
