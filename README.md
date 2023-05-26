@@ -14,7 +14,7 @@
     <img title="React router" width="40" height="40" src="https://github.com/rasosha/rasosha/assets/50449824/6ed21322-b66e-4b2d-a359-ea8c378a704d" alt="img"/>
     <img title="Redux" width="40" height="40" src="https://github.com/rasosha/rasosha/assets/50449824/b4c6f084-7288-427d-9dc3-fd92b25ea3fa" alt="img"/>
     <img title="Tailwindcss" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" alt="img"/>
-    <img title="Sass" width="40" height="40" src="https://github.com/rasosha/rasosha/assets/50449824/29bff1d6-1f3d-4395-950f-13b266ff291b" alt="img"/>
+    <img title="Zustand" width="40" height="40" src="https://github.com/rasosha/rasosha/assets/50449824/98fc2898-e861-4b24-81af-9d6535157d54" alt="img"/>
   </li>
   <li> 
     <p>Tools:</p>
@@ -43,6 +43,7 @@
       <img title="yarn" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" alt="img"/>
       <img title="Electron" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/electron/electron-original.svg" alt="img"/>
       <img title="Cypress" width="40" height="40" src="https://github.com/rasosha/rasosha/assets/50449824/642b88cc-b43f-4828-83c4-243f027654ce" alt="img"/>
+      <img title="Sass" width="40" height="40" src="https://github.com/rasosha/rasosha/assets/50449824/29bff1d6-1f3d-4395-950f-13b266ff291b" alt="img"/>
  </li>
 </ul>
 
