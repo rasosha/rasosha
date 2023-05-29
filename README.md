@@ -1,6 +1,6 @@
-## Hello there! 👋
+### Hello there! 👋
 
-`My name is Andrei and I'm a beginner front-end developer.`
+My name is Andrei and I'm a beginner front-end developer.
 
 ### My stack:
 <ul>
@@ -47,25 +47,16 @@
  </li>
 </ul>
 
-### Projects:
-
-- [SongBird Quiz](todo:add.link)
-- [Gem Puzzle Classic game](todo:add.link)
-- [Online store ](todo:add.link)
-
 ### Certificates:
 
-- [RS School JavaScript/Front-end 2022Q3](https://app.rs.school/certificate/qi69aaz5)
-- [React 2023 Q1](todo:add.link)
+- [RS School Front-end 2022Q3](https://app.rs.school/certificate/qi69aaz5)
+- [RS School React 2023 Q1](todo:add.link)
 - [EF SET English level C2 Proficient](https://www.efset.org/cert/CzRdMa)
 
-### My CVs:
+### Projects: 
+- [RS School projects](https://rsschool-rasosha.netlify.app)
 
-[![Habr](https://img.shields.io/badge/habr-629fbc?logoColor=fff&logo=habr&style=for-the-badge)](https://career.habr.com/rasosha)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linked.in/rasosha)
-[![HH](https://img.shields.io/badge/hh.ru-629fbc?logoColor=fff&color=red&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAB1FBMVEUAAADMAADYABTVAA7XABveABbYABTbABveABnhABfbABbeABrfABrfABvgABveABnfABrfABrhABzfABvgABrgABvhABrgABvhABvgABzgABzgABvgABzgABvgABvgABvgABvhABzhABzhABzgABvhABzgABvgABvhABzgABzgABzgABvhABvhABzgABzhABzgABzhABvhARzhAx7hBB%2FhByLiCiTiCyXiDCbiDSfiDyniECrjEivkGzPkHTXkHjbkITnlIzvlJDvlJj3lKUDlKkHmLEPmLkTmL0XmMEbmMUfmMkjnNUrnNkvnOk%2FoPFHoPVLoPlLoP1PoQFToQVXpSFvpTF%2FqT2LqUGLqUmTrWGnrWWrsXm%2FsY3PtZ3ftaHjtaXntannta3rub37ucH%2Fvd4XvfInvfovwgI3wgY7whZHwh5PxiJTxiZXxjJjxj5rxkJvykZzyk57ylJ%2FznKbznafznqj0pa70p7D1qrL1srn2uL%2F3wMb4xsv4x8z5zND5zdH5ztL50NT50dX51Nf61dj62Nv74OL74eP75eb85%20j86er86uv87O387e797u797%20%2F98PD98%2FP99vb%209%2Fb%20%20Pf%20%20fj%20%20%2Fr%20%2FPv%20%2Ffz%20%2Fv3%2F%2F%2F58qksBAAAAMnRSTlMABQ0SExcaHB8iIycoMDk9T1hcYGyFh46PkpuerrzFxsjJytLY3N%2Fg5ebn6Ozu8fb5%2FL7UkpgAAAOpSURBVHjarM9TFsRQFAXRtm3FdnLmP7j%20jfNw9wRq1YjV9HB9%2FFTLjfM8di3197gepiNKi8vXRQv3e1nQFLZ3Gz3s%201a2MLsZGGTcZhKJ5TsDk%20y9FExsPjmY5Z%20NQGLyKsCleE14G%20cA3PwzV2KlQIiyYm%20cEghKToyJ8RMSnmOWxlyHFH0%203Fg7kOSshxr7ENLCfX%2FjmIJAeuz9SEEi7XlZhyASrrsacwdknHl7Y6yDkD5ujbxA6tnWOIHYqdlYJSCWrBoRBeSUeuMM0DtXG5PgT5s99UkSxVAAz9i2bWdt27Zt27a998MO031Ttan0KuepficP%2F3bdzFggXclmnyyWSm5kD%2FHRzPMTOYVy1tF8V%20L7Pj9dVCPPHDeRDyjnAM2vYsJUs%2FPVoBUy6M9jVWiFYBVQUgfskIFUQkrRDsFSQpotkSbaDdASwYnNoswWKRtHWm2R1vFdDW0RHNv4iq2R4lGkJiEyee6S2Xx%20MIRMXbRgqoLUjCIdOrLw%20NMfo9efb%202ZKSKbr7weu359ZUsU0g6Qghoy%2FeJPF8ur3b%20%20XIvvuHjurkA5KZCvIcufOZ7L4Wey7wsff9suI%2FlQoiAr3rhgTgaRQ6Hxl7UiUgLl0cjXty6Ub4s48tKFc19EyqFWQiJzlSFStkpILTToyJP9a%20asPPTcUd5MCiI%2Fb%205YOnfdxc9O%20%20o0QIuKnJhoZt9zlFUB5MNGuut%2FpOKZhLRAu4acQcqyn9Ts5MjP%20Bt9LNZMEb8ovQryeka8e0jVYY5cj4%2FnO8pcAemFQQW54LsbVB3jyCY%2F%2F0rVUgEZVJGdvrtE1WmGfJ%2Fm5y%20oWyMivQqy0HenqTrLkMfo85Q66evYq77xs3x3gqpzDLmNPo%20oWy%20%208S0KMtl3xxhygK5vos8DBWmB%20mjkE%20uOCs%2FkGpvfU5B67WflvYjId0YNqYVye6QcSuyREsi3R%2FIhxR5JAeiwRtrpSGSK1KiHu3f%2FBymmY6opkk4HbkuklVYHU6SMliBThP690mSJNLHF1AwpZSu2FTKQGvHHghknJnKEdRuoG1sQVtP1NjbfS928kV7NQANAGAyDjZESxGiCMZgEtfd%2FuEDwiWT9d49xdyoLVHsYcPQqcAxYVUUZcI60VAP0ICA6AWULyGdAowuLQRAA0gYXaZRhN8hNQDgDEiAQM4ksywdmxcXaQHRA9Of3BYMRY5v5pYSfY%2FjNR%2FAh11dy8F0jk%20F6JRNZqQ%20UfyYy2eHSvcOlTzvcBaT8GpGK37jHAAAAAElFTkSuQmCC&style=for-the-badge)](https://hh.ru/resume/6672d1d0ff0bc6e00d0039ed1f3562557a6476)
-
-### Contact me:
+### Contacts:
 
 [![](https://img.shields.io/badge/telegram-@rasosha7-white?logo=telegram&labelColor=FFF&color=25a3e2&style=for-the-badge)](https://t.me/rasosha7)
 
@@ -73,8 +64,9 @@
 
 [![](https://img.shields.io/badge/gmail-rasosha@gmail.com-white?logo=gmail&logoColor=d9644d&labelColor=FFF&color=e05d44&style=for-the-badge)](mailto:rasosha@gmail.com)
 
-
-
+[![Habr](https://img.shields.io/badge/habr-629fbc?logoColor=fff&logo=habr&style=for-the-badge)](https://career.habr.com/rasosha)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linked.in/rasosha)
+[![HH](https://img.shields.io/badge/hh.ru-629fbc?logoColor=fff&color=red&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAB1FBMVEUAAADMAADYABTVAA7XABveABbYABTbABveABnhABfbABbeABrfABrfABvgABveABnfABrfABrhABzfABvgABrgABvhABrgABvhABvgABzgABzgABvgABzgABvgABvgABvgABvhABzhABzhABzgABvhABzgABvgABvhABzgABzgABzgABvhABvhABzgABzhABzgABzhABvhARzhAx7hBB%2FhByLiCiTiCyXiDCbiDSfiDyniECrjEivkGzPkHTXkHjbkITnlIzvlJDvlJj3lKUDlKkHmLEPmLkTmL0XmMEbmMUfmMkjnNUrnNkvnOk%2FoPFHoPVLoPlLoP1PoQFToQVXpSFvpTF%2FqT2LqUGLqUmTrWGnrWWrsXm%2FsY3PtZ3ftaHjtaXntannta3rub37ucH%2Fvd4XvfInvfovwgI3wgY7whZHwh5PxiJTxiZXxjJjxj5rxkJvykZzyk57ylJ%2FznKbznafznqj0pa70p7D1qrL1srn2uL%2F3wMb4xsv4x8z5zND5zdH5ztL50NT50dX51Nf61dj62Nv74OL74eP75eb85%20j86er86uv87O387e797u797%20%2F98PD98%2FP99vb%209%2Fb%20%20Pf%20%20fj%20%20%2Fr%20%2FPv%20%2Ffz%20%2Fv3%2F%2F%2F58qksBAAAAMnRSTlMABQ0SExcaHB8iIycoMDk9T1hcYGyFh46PkpuerrzFxsjJytLY3N%2Fg5ebn6Ozu8fb5%2FL7UkpgAAAOpSURBVHjarM9TFsRQFAXRtm3FdnLmP7j%20jfNw9wRq1YjV9HB9%2FFTLjfM8di3197gepiNKi8vXRQv3e1nQFLZ3Gz3s%201a2MLsZGGTcZhKJ5TsDk%20y9FExsPjmY5Z%20NQGLyKsCleE14G%20cA3PwzV2KlQIiyYm%20cEghKToyJ8RMSnmOWxlyHFH0%203Fg7kOSshxr7ENLCfX%2FjmIJAeuz9SEEi7XlZhyASrrsacwdknHl7Y6yDkD5ujbxA6tnWOIHYqdlYJSCWrBoRBeSUeuMM0DtXG5PgT5s99UkSxVAAz9i2bWdt27Zt27a998MO031Ttan0KuepficP%2F3bdzFggXclmnyyWSm5kD%2FHRzPMTOYVy1tF8V%20L7Pj9dVCPPHDeRDyjnAM2vYsJUs%2FPVoBUy6M9jVWiFYBVQUgfskIFUQkrRDsFSQpotkSbaDdASwYnNoswWKRtHWm2R1vFdDW0RHNv4iq2R4lGkJiEyee6S2Xx%20MIRMXbRgqoLUjCIdOrLw%20NMfo9efb%202ZKSKbr7weu359ZUsU0g6Qghoy%2FeJPF8ur3b%20%20XIvvuHjurkA5KZCvIcufOZ7L4Wey7wsff9suI%2FlQoiAr3rhgTgaRQ6Hxl7UiUgLl0cjXty6Ub4s48tKFc19EyqFWQiJzlSFStkpILTToyJP9a%20asPPTcUd5MCiI%2Fb%205YOnfdxc9O%20%20o0QIuKnJhoZt9zlFUB5MNGuut%2FpOKZhLRAu4acQcqyn9Ts5MjP%20Bt9LNZMEb8ovQryeka8e0jVYY5cj4%2FnO8pcAemFQQW54LsbVB3jyCY%2F%2F0rVUgEZVJGdvrtE1WmGfJ%2Fm5y%20oWyMivQqy0HenqTrLkMfo85Q66evYq77xs3x3gqpzDLmNPo%20oWy%20%208S0KMtl3xxhygK5vos8DBWmB%20mjkE%20uOCs%2FkGpvfU5B67WflvYjId0YNqYVye6QcSuyREsi3R%2FIhxR5JAeiwRtrpSGSK1KiHu3f%2FBymmY6opkk4HbkuklVYHU6SMliBThP690mSJNLHF1AwpZSu2FTKQGvHHghknJnKEdRuoG1sQVtP1NjbfS928kV7NQANAGAyDjZESxGiCMZgEtfd%2FuEDwiWT9d49xdyoLVHsYcPQqcAxYVUUZcI60VAP0ICA6AWULyGdAowuLQRAA0gYXaZRhN8hNQDgDEiAQM4ksywdmxcXaQHRA9Of3BYMRY5v5pYSfY%2FjNR%2FAh11dy8F0jk%20F6JRNZqQ%20UfyYy2eHSvcOlTzvcBaT8GpGK37jHAAAAAElFTkSuQmCC&style=for-the-badge)](https://hh.ru/resume/6672d1d0ff0bc6e00d0039ed1f3562557a6476)
 
 ### Stats:
 [![Codewars](https://www.codewars.com/users/rasosha/badges/large)](https://www.codewars.com/users/rasosha/badges/large)
