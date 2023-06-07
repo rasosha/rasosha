@@ -49,7 +49,7 @@ My name is Andrei and I'm a beginner front-end developer.
 
 ### Certificates:
 
-- [RS School Front-end 2022Q3](https://app.rs.school/certificate/qi69aaz5)
+- [RS School Front-end 2022 Q3](https://app.rs.school/certificate/qi69aaz5)
 - [RS School React 2023 Q1](https://app.rs.school/certificate/89n9lhd8)
 - [EF SET English level C2 Proficient](https://www.efset.org/cert/CzRdMa)
 
