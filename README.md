@@ -70,6 +70,7 @@ My name is Andrei and I'm a beginner front-end developer.
 
 ### Stats:
 [![Codewars](https://www.codewars.com/users/rasosha/badges/large)](https://www.codewars.com/users/rasosha/badges/large)
+![image](https://github.com/rasosha/rasosha/assets/50449824/279b0485-54a9-4fef-9675-3427c1c23113)
 
 
 <!-- ![HTML5](https://img.shields.io/badge/HTML5-e05d44?logo=html5&logoColor=fff&style=for-the-badge)
