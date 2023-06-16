@@ -1,0 +1,69 @@
+.reactSwitchCheckbox {
+  height: 0;
+  width: 0;
+  visibility: hidden;
+}
+
+.reactSwitchLabel {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  width: 50px;
+  height: 32px;
+  background: #d2d2d2;
+  border-radius: 100px;
+  position: relative;
+  transition: 0.2s;
+  /* box-shadow: 0 0 2px 0px #00000080; */
+}
+
+.reactSwitchLabel .reactSwitchButton {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  transition: 0.2s;
+  background-image: url('../../../assets/en.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  opacity: 0.5;
+  overflow: hidden;
+}
+
+.reactSwitchCheckbox:checked + .reactSwitchLabel .reactSwitchButton {
+  left: calc(100% - 2px);
+  transform: translateX(-100%);
+  background-image: url('../../../assets/ru.png');
+}
+
+.reactSwitchLabel:hover .reactSwitchButton {
+  opacity: 1;
+}
+/* 
+.reactSwitchButton:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  background-color: #ffffff42;
+  transform: translateX(-200%) skewX(-45deg);
+}
+
+.reactSwitchButton:hover:before {
+  animation: blink 1s;
+}
+
+@keyframes blink {
+  from {
+    transform: translateX(-100%) skewX(-45deg);
+  }
+  to {
+    transform: translateX(1000%) skewX(-45deg);
+  }
+} */

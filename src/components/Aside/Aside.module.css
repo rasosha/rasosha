@@ -1,0 +1,31 @@
+.aside {
+  grid-column: 1 / 2;
+  background-color: #0c233c;
+  color: white;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+}
+
+.photo {
+  align-self: center;
+  justify-self: center;
+  margin: 20px;
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 50%;
+  box-shadow: 0 0 10px -2px #555;
+}
+
+.colorInput {
+  width: 100%;
+  border: none;
+  outline: none;
+  background: none;
+}

@@ -1,0 +1,6 @@
+.portfolio {
+  display: flex;
+  flex-direction: column;
+  margin: 12px 0;
+  gap: 12px;
+}

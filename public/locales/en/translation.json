@@ -1,0 +1,144 @@
+{
+  "languages": {
+    "english": "English",
+    "russian": "Russian",
+    "native": "native",
+    "proficient": "proficient C1"
+  },
+
+  "rasosha": "Andrei Rassokhin",
+
+  "about": {
+    "speciality": "Frontend Developer",
+    "description": "Highly motivated frontend developer with а strong foundation in React is seeking an opportunity to contribute to the development of modern web applications. Striving to create intuitive and user-friendly interfaces that enhance the user experience. "
+  },
+
+  "section": {
+    "personal": "Personal info",
+    "skills": "Skills",
+    "languages": "Languages",
+    "work": "Work Experience",
+    "education": "Education",
+    "certificates": "Certificates",
+    "portfolio": "Portfolio"
+  },
+
+  "personal": {
+    "location": {
+      "label": "current location",
+      "text": "Kuala Lumpur, Malaysia"
+    },
+    "email": "email",
+    "linkedin": "",
+    "resume": {
+      "name": "rasosha",
+      "site": "linked in",
+      "link": "https://www.linkedin.com/in/rasosha/"
+    },
+    "github": "github",
+    "telegram": "telegram",
+    "phone": {
+      "phone": "phone",
+      "number": "+60(10)434-80-53"
+    }
+  },
+
+  "work": {
+    "company": {
+      "freelance": {
+        "name": "Freelance",
+        "title": "Frontend Developer",
+        "description": "Developing а responsive web application using React and Redux. Implementing complex user interface components and state management to enhance user interaction. Utilizing Git for version control and participating in code reviews. Using modern CSS frameworks to ensure an attractive and adaptive design. Conducting thorough testing and debugging to ensure а seamless user experience. Creating custom websites using React and HTML/CSS. Implementing client-side form validation and integrating with third-party API services. Collaborating with а team of developers to meet goals within tight deadlines. Participating in code reviews and learning best practices for clean and efficient code."
+      },
+      "railContinent": {
+        "name": "Rail Continent",
+        "title": "Technical Support Specialist",
+        "description": "Providing technical support to users, including prompt issue resolution, software configuration, and explaining the principles of office programs. Installing and configuring new workstations, including software and program setup according to company policies. Maintaining the functionality of computers and office equipment through preventive maintenance and component replacement. Diagnosing and troubleshooting computer, office equipment, and network issues. Designing and installing local area networks (LAN). Programming analog РВХ systems, specifically Panasonic KX-TD816. Additional responsibilities: Working with digital signatures (DS) and cryptographic protection tools (Cryptopro, ViPNet). Document processing in the ETRAN system. Interacting with the Russian Railways (RZD)."
+      }
+    }
+  },
+
+  "education": {
+    "mati": {
+      "institution": "Russian state Technological University 'MAI'",
+      "faculty": "Information systems and technologies, Informatics and computer engineering",
+      "speciality": "Bachelor of IT"
+    },
+    "kat": {
+      "institution": "Regional Institute \"Kirov Aviation College\"",
+      "faculty": "Information technology, maintenance от computer equipment and computer networks ",
+      "speciality": "Secondary specialized education"
+    },
+    "rss": {
+      "institution": "Rolling Scopes School",
+      "faculty": "JavaScript, frontend, React",
+      "speciality": "Frontend Developer"
+    }
+  },
+  "issued": "Issued",
+  "showCertificate": "Show credential",
+  "current": "current",
+  "month": {
+    "jan": "January",
+    "feb": "February",
+    "mar": "March",
+    "apr": "April",
+    "may": "May",
+    "jun": "June",
+    "jul": "July",
+    "aug": "August",
+    "sep": "September",
+    "oct": "October",
+    "nov": "November",
+    "dec": "December"
+  },
+
+  "skills": {
+    "html": "html language",
+    "css": "style sheet language",
+    "programming": "programming language",
+    "frameworks": "frameworks and libraries",
+    "state": "state container",
+    "package": "package managers",
+    "git": "version control",
+    "design": "design",
+    "google": "most useful skill"
+  },
+
+  "portfolio": {
+    "task": "full task",
+    "deploy": "demonstration",
+    "repo": "repository",
+
+    "item1": {
+      "title": "Green-API test work",
+      "description": "The task is to develop a user interface for sending and receiving WhatsApp text messages using the GREEN-API service."
+    },
+    "item2": {
+      "title": "GraphiQL playground",
+      "description": "The task is to implement GraphiQL playground app. Google Firebase must be used for authentication with an email option. The application must be translated into at least two languages. The task must be completed in a team of 3 people."
+    },
+    "item3": {
+      "title": "Rick and Morty API",
+      "description": "First React project. Exploring React function and class components, React hooks, React forms, React testing library."
+    },
+    "item4": {
+      "title": "Online store",
+      "description": "The task is to create an online store of any subject. You choose the topic yourself. For example, it can be clothing, appliances, auto parts, sports, etc. The task must be completed in a team of 2 people."
+    },
+    "item5": {
+      "title": "SongBird game",
+      "description": "Songbird is a quiz app for recognizing birds by their voices"
+    },
+    "item6": {
+      "title": "Gem puzzle",
+      "description": "The task is to implement the classic '15 puzzle game'"
+    },
+    "item7": {
+      "title": "Online Zoo",
+      "description": "The task is to create an adaptive website based on layout in Figma. Implement your own image slider."
+    }
+  },
+
+  "": ""
+}

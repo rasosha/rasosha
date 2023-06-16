@@ -1,0 +1,25 @@
+.textBox {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  margin: 12px 12px 0 12px;
+}
+
+.textBoxLink {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+.textBoxText {
+  font-size: 18px;
+}
+
+.textBoxLabel {
+  width: 100%;
+  flex-grow: 1;
+  font-size: 16px;
+  padding: 0 12px;
+  opacity: 0.5;
+  font-variant: small-caps;
+}

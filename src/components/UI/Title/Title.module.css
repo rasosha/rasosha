@@ -1,0 +1,8 @@
+.title {
+  padding: 12px;
+  font-size: 24px;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+  font-weight: bold;
+  font-variant: small-caps;
+}
