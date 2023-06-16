@@ -50,21 +50,21 @@ export const Main: FC = () => {
 
   const certificates = [
     {
-      image: './src/assets/certificates/rsschool.jpg',
+      image: './assets/certificates/rsschool.jpg',
       title: 'React 2023 Q1',
       organization: 'The Rolling Scopes School',
       date: `${t('issued')} ${t('month.jun')} 2023`,
       link: 'https://app.rs.school/certificate/89n9lhd8',
     },
     {
-      image: './src/assets/certificates/efset.jpg',
+      image: './assets/certificates/efset.jpg',
       title: 'EF SET English Certificate 75/100 (C2 Proficient)',
       organization: 'EF Standard English Test (EF SET)',
       date: `${t('issued')} ${t('month.may')} 2023`,
       link: 'https://www.efset.org/cert/CzRdMa',
     },
     {
-      image: './src/assets/certificates/rsschool.jpg',
+      image: './assets/certificates/rsschool.jpg',
       title: 'Front-end 2022 Q3',
       organization: 'The Rolling Scopes School',
       date: `${t('issued')} ${t('month.mar')} 2023`,

@@ -11,7 +11,7 @@ export const Aside: FC = () => {
     <aside className={S.aside}>
       <section className={S.section}>
         <img
-          src="./src/assets/photo.jpeg"
+          src="./assets/photo.jpeg"
           alt="profile image"
           className={S.photo}
         />

@@ -20,14 +20,14 @@ export const Portfolio: FC = () => {
       <PortfolioItem
         title={t('portfolio.item1.title')}
         description={t('portfolio.item1.description')}
-        image="./src/assets/portfolio/green-api.png"
+        image="./assets/portfolio/green-api.png"
         stack="TypeScript, React, Zustand"
         task="https://drive.google.com/file/d/1c3HDbZJuPdfv7FaUYo8kEMzsfM2AkKwI/view"
         deploy="https://develop--rasosha-green-api.netlify.app/"
         repository="https://github.com/rasosha/green-api"
       />
       <PortfolioItem
-        image="./src/assets/portfolio/graphiql.png"
+        image="./assets/portfolio/graphiql.png"
         title={t('portfolio.item2.title')}
         description={t('portfolio.item2.description')}
         stack="TypeScript, React, React Router, Zustand, Google Firebase, i18n, tailwindcss"
@@ -36,7 +36,7 @@ export const Portfolio: FC = () => {
         repository="https://github.com/IvanBusygin/graphiql-app/pull/22"
       />
       <PortfolioItem
-        image="./src/assets/portfolio/rickandmortyapi.png"
+        image="./assets/portfolio/rickandmortyapi.png"
         title={t('portfolio.item3.title')}
         description={t('portfolio.item3.description')}
         stack="TypeScript, React, React Router, Redux, React-Hook-Form,  Vitest "
@@ -45,7 +45,7 @@ export const Portfolio: FC = () => {
         repository="https://github.com/rasosha/react/pull/5"
       />
       <PortfolioItem
-        image="./src/assets/portfolio/online-store.png"
+        image="./assets/portfolio/online-store.png"
         title={t('portfolio.item4.title')}
         description={t('portfolio.item4.description')}
         stack="TypeScript, custom hash router, webpack"
@@ -54,7 +54,7 @@ export const Portfolio: FC = () => {
         repository="https://github.com/raNYnight/online-store/pull/4"
       />
       <PortfolioItem
-        image="./src/assets/portfolio/songbird.png"
+        image="./assets/portfolio/songbird.png"
         title={t('portfolio.item5.title')}
         description={t('portfolio.item5.description')}
         stack="JavaScript, webpack"
@@ -63,7 +63,7 @@ export const Portfolio: FC = () => {
         repository="https://github.com/rasosha/RS-School/tree/develop/songbird"
       />
       <PortfolioItem
-        image="./src/assets/portfolio/gempuzzle.png"
+        image="./assets/portfolio/gempuzzle.png"
         title={t('portfolio.item6.title')}
         description={t('portfolio.item6.description')}
         stack="JavaScript, webpack"
@@ -72,7 +72,7 @@ export const Portfolio: FC = () => {
         repository="https://github.com/rasosha/RS-School/tree/develop/gempuzzle"
       />
       <PortfolioItem
-        image="./src/assets/portfolio/online-zoo.png"
+        image="./assets/portfolio/online-zoo.png"
         title={t('portfolio.item7.title')}
         description={t('portfolio.item7.description')}
         stack="JavaScript"
