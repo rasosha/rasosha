@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import S from './ScrollButton.module.css';
-import { ReactComponent as ArrowUp } from '../../../assets/up-arrow.svg';
+import { ReactComponent as ArrowUp } from '../../../assets/icons/up-arrow.svg';
 
 export const ScrollButton = () => {
   const [visible, setVisible] = useState(false);

@@ -27,7 +27,7 @@
   height: 28px;
   border-radius: 50%;
   transition: 0.2s;
-  background-image: url('../../../assets/en.png');
+  background-image: url('../../../assets/language/en.png');
   background-repeat: no-repeat;
   background-size: contain;
   opacity: 0.5;
@@ -37,7 +37,7 @@
 .reactSwitchCheckbox:checked + .reactSwitchLabel .reactSwitchButton {
   left: calc(100% - 2px);
   transform: translateX(-100%);
-  background-image: url('../../../assets/ru.png');
+  background-image: url('../../../assets/language/ru.png');
 }
 
 .reactSwitchLabel:hover .reactSwitchButton {
