@@ -13,14 +13,14 @@ export const Main: FC = () => {
   const works = [
     {
       title: t('work.company.freelance.title'),
-      time: `${t('month.sep')} 2022 - ${t('current')}`,
+      time: `${t('month.sep')} 2022 — ${t('current')}`,
       link: 'https://www.github.com/rasosha',
       company: t('work.company.freelance.name'),
       description: t('work.company.freelance.description'),
     },
     {
       title: t('work.company.railContinent.title'),
-      time: `${t('month.jun')} 2016 - ${t('month.jul')} 2022`,
+      time: `${t('month.jun')} 2016 — ${t('month.jul')} 2022`,
       link: 'https://www.railcontinent.ru',
       company: t('work.company.railContinent.name'),
       description: t('work.company.railContinent.description'),

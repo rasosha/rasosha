@@ -7,16 +7,16 @@
   border-radius: 12px;
 }
 .cardTitle {
-  font-size: 20px;
+  font-size: 18px;
   display: flex;
   justify-content: space-between;
   font-weight: bold;
 }
 .cardTime {
-  font-size: 12px;
+  font-size: 14px;
   opacity: 0.7;
   right: 0;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 .cardLink {
@@ -25,13 +25,15 @@
 }
 
 .cardCompany {
-  font-size: 16px;
-  font-style: oblique;
+  font-size: 18px;
+  font-style: italic;
   opacity: 0.7;
-  font-weight: bold;
+  font-weight: 300;
   text-decoration: none;
+  margin-left: 12px;
 }
 
 .cardDescription {
+  font-size: 16px;
   text-align: justify;
 }
