@@ -1,7 +1,7 @@
 import { useTranslation } from 'react-i18next';
 import S from './Main.module.css';
 import { FC } from 'react';
-import { Title } from '../UI/Title/Title';
+import Title from '../UI/Title';
 import { Portfolio } from './Portfolio/Portfolio';
 import { ReactComponent as OpenLink } from '../../assets/openLink.svg';
 import LanguageSwitch from '../UI/LanguageSwitch';

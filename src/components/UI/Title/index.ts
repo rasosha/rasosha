@@ -1,3 +1,3 @@
-import { TextBox } from './Title';
+import { Title } from './Title';
 
-export default TextBox;
+export default Title;

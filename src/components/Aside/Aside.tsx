@@ -1,7 +1,7 @@
 import S from './Aside.module.css';
 import { FC } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Title } from '../UI/Title/Title';
+import Title from '../UI/Title/';
 import TextBox from '../UI/TextBox';
 
 export const Aside: FC = () => {
