@@ -3,7 +3,6 @@ import { FC } from 'react';
 import Portfolio from './Portfolio/';
 import S from './Main.module.css';
 import Title from '../UI/Title';
-import LanguageSwitch from '../UI/LanguageSwitch';
 import Card from './Card/';
 import Certificate from './Certificate';
 
@@ -74,17 +73,10 @@ export const Main: FC = () => {
 
   return (
     <main className={S.main}>
-      <section className={S.section}>
-        <div className={S.about}>
-          <p className={S.name}>{t('rasosha')}</p>
-          <p className={S.aboutSpecialty}>{t('about.speciality')}</p>
-          <p className={S.aboutDescription}>{t('about.description')}</p>
-          <div className={S.languageSwitch}>
-            <LanguageSwitch />
-          </div>
-        </div>
-      </section>
-      <section className={S.section}>
+      <section
+        className={S.section}
+        id="work"
+      >
         <Title text={t('section.work')} />
         <div className={S.work}>
           {works.map((work) => {
@@ -97,7 +89,10 @@ export const Main: FC = () => {
           })}
         </div>
       </section>
-      <section className={S.section}>
+      <section
+        className={S.section}
+        id="education"
+      >
         <Title text={t('section.education')} />
         <div className={S.education}>
           {education.map((education) => {
@@ -110,7 +105,10 @@ export const Main: FC = () => {
           })}
         </div>
       </section>
-      <section className={S.section}>
+      <section
+        className={S.section}
+        id="certificates"
+      >
         <Title text={t('section.certificates')} />
         <div className={S.certificates}>
           {certificates.map((certificate) => {
@@ -123,7 +121,10 @@ export const Main: FC = () => {
           })}
         </div>
       </section>
-      <section className={S.section}>
+      <section
+        className={S.section}
+        id="portfolio"
+      >
         <Title text={t('section.portfolio')} />
         <Portfolio />
       </section>

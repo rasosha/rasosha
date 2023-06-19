@@ -1,13 +1,13 @@
 .textBox {
   text-decoration: none;
-  color: white;
   font-size: 18px;
   margin: 12px 12px 0 12px;
 }
 
 .textBoxLink {
   text-decoration: none;
-  color: white;
+  color: inherit;
+  text-decoration: inherit;
   font-size: 18px;
 }
 

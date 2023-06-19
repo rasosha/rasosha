@@ -29,12 +29,23 @@
   font-style: italic;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .wrapper {
   margin: auto;
-  max-width: 960px;
+  max-width: 1024px;
   display: grid;
   grid-template-columns: 30% 70%;
   font-family: 'Ubuntu', sans-serif;
   overflow: hidden;
   box-shadow: 0 0 10px -2px black;
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+  }
 }

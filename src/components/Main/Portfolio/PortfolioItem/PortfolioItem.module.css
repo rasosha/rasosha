@@ -136,3 +136,16 @@
   transform: translateY(-50%) scaleY(6%);
   transition: all 0.2s ease-in-out;
 }
+
+@media (max-width: 768px) {
+  .portfolioItemLinks {
+    flex-direction: column;
+  }
+  .portfolioItemStack {
+    padding: 0;
+    gap: 5px;
+  }
+  .stackItem {
+    margin: 0px 0;
+  }
+}

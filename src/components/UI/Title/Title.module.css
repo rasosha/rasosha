@@ -6,3 +6,9 @@
   font-weight: bold;
   font-variant: small-caps;
 }
+
+@media (max-width: 768px) {
+  .title {
+    margin-top: 12px;
+  }
+}

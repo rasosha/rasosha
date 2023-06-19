@@ -9,14 +9,10 @@ export const Aside: FC = () => {
 
   return (
     <aside className={S.aside}>
-      <section className={S.section}>
-        <img
-          src="./assets/photo.jpeg"
-          alt="profile image"
-          className={S.photo}
-        />
-      </section>
-      <section className={S.section}>
+      <section
+        className={S.section}
+        id="personal"
+      >
         <Title text={t('section.personal')} />
         <div className={S.personalInfo}>
           <TextBox
@@ -26,6 +22,7 @@ export const Aside: FC = () => {
           <TextBox
             text="rasosha@gmail.com"
             label={t('personal.email')}
+            link="mailto:rasosha@gmail.com"
           />
           <TextBox
             text={t('personal.resume.name')}
@@ -49,7 +46,10 @@ export const Aside: FC = () => {
           />
         </div>
       </section>
-      <section className={S.section}>
+      <section
+        className={S.section}
+        id="skills"
+      >
         <Title text={t('section.skills')} />
         <div className={S.skills}>
           <TextBox
@@ -90,7 +90,10 @@ export const Aside: FC = () => {
           />
         </div>
       </section>
-      <section className={S.section}>
+      <section
+        className={S.section}
+        id="languages"
+      >
         <Title text={t('section.languages')} />
         <div className={S.languages}>
           <TextBox
