@@ -5,10 +5,10 @@
   color: #0c233c;
 }
 
-.about,
 .work,
 .education,
-.certificates {
+.certificates,
+.portfolio {
   display: flex;
   flex-direction: column;
   margin: 12px 0;
@@ -16,4 +16,7 @@
 }
 
 @media (max-width: 768px) {
+  .section {
+    padding-top: 12px;
+  }
 }
