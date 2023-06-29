@@ -18,6 +18,14 @@ export const Portfolio: FC = () => {
   return (
     <div className={S.portfolio}>
       <PortfolioItem
+        title={t('portfolio.item8.title')}
+        description={t('portfolio.item8.description')}
+        image="./assets/portfolio/wordle.png"
+        stack="TypeScript, React, Zustand, Google Firebase"
+        deploy="https://wordle-ras.web.app"
+        repository="https://github.com/rasosha/wordle-ras"
+      />
+      <PortfolioItem
         title={t('portfolio.item1.title')}
         description={t('portfolio.item1.description')}
         image="./assets/portfolio/green-api.png"

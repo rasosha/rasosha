@@ -137,6 +137,10 @@
     "item7": {
       "title": "Online Zoo",
       "description": "The task is to create an adaptive website based on layout in Figma. Implement your own image slider."
+    },
+    "item8": {
+      "title": "WORDLE game",
+      "description": "WORDLE game clone, with chat and results saving."
     }
   },
 

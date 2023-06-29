@@ -6,13 +6,13 @@ interface PortfolioItem {
   title: string;
   description: string;
   stack: string;
-  task: string;
+  task?: string;
   deploy: string;
   repository: string;
   image: string;
 }
 
-export const PortfolioItem: FC<PortfolioItem> = ({ title, description, stack, image, task, deploy, repository }) => {
+export const PortfolioItem: FC<PortfolioItem> = ({ title, description, stack, image, task = '', deploy, repository }) => {
   const { t } = useTranslation();
   return (
     <div className={S.portfolioItem}>
@@ -26,7 +26,7 @@ export const PortfolioItem: FC<PortfolioItem> = ({ title, description, stack, im
           className={S.portfolioItemImage}
         />
         <div className={S.portfolioItemLinks}>
-          <a href={task}>{t('portfolio.task')}</a>
+          {task && <a href={task}>{t('portfolio.task')}</a>}
           <a href={deploy}>{t('portfolio.deploy')}</a>
           <a href={repository}>{t('portfolio.repo')}</a>
         </div>

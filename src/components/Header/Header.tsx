@@ -55,7 +55,7 @@ export const Header: NewType = () => {
       </nav>
       <section className={S.photoSection}>
         <img
-          src="./assets/photo.jpeg"
+          src="./assets/rasosha.png"
           alt="profile image"
           className={S.photo}
         />
