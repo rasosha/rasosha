@@ -141,6 +141,10 @@
     "item8": {
       "title": "WORDLE game",
       "description": "WORDLE game clone, with chat and results saving."
+    },
+    "item9": {
+      "title": "Asteroids test task",
+      "description": "Online service for monitoring asteroids based on NASA API."
     }
   },
 

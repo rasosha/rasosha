@@ -18,6 +18,14 @@ export const Portfolio: FC = () => {
   return (
     <div className={S.portfolio}>
       <PortfolioItem
+        title={t('portfolio.item9.title')}
+        description={t('portfolio.item9.description')}
+        image="./assets/portfolio/asteroids.png"
+        stack="TypeScript, React, Next.js"
+        deploy="https://armageddon-ras.vercel.app"
+        repository="https://github.com/rasosha/kvartirka-test/"
+      />
+      <PortfolioItem
         title={t('portfolio.item8.title')}
         description={t('portfolio.item8.description')}
         image="./assets/portfolio/wordle.png"
