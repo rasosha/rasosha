@@ -70,10 +70,9 @@ My name is Andrei and I'm a beginner front-end developer.
 
 ### Stats:
 [![Codewars](https://www.codewars.com/users/rasosha/badges/large)](https://www.codewars.com/users/rasosha/badges/large)
-![image](https://github.com/rasosha/rasosha/assets/50449824/279b0485-54a9-4fef-9675-3427c1c23113)
 
-
-<!-- ![HTML5](https://img.shields.io/badge/HTML5-e05d44?logo=html5&logoColor=fff&style=for-the-badge)
+<!--![image](https://github.com/rasosha/rasosha/assets/50449824/279b0485-54a9-4fef-9675-3427c1c23113)
+![HTML5](https://img.shields.io/badge/HTML5-e05d44?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-254994?logo=css3&logoColor=fff&style=for-the-badge)
 ![JS](https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=f7e01d&style=for-the-badge)
 ![TS](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=fff&style=for-the-badge)
