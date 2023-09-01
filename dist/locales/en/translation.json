@@ -10,7 +10,7 @@
 
   "about": {
     "speciality": "Frontend Developer",
-    "description": "Hello! I am a beginner frontend developer, aspiring to create user-friendly and appealing user interfaces. I have a solid  understanding of HTML, CSS, JavaScript, and TypeScript. I am committed to continuous growth and development. I am eager to join a team, learn through hands-on experience, and contribute to the advancement of projects. "
+    "description": "Hello! I am a certified frontend developer, aspiring to create user-friendly and appealing user interfaces. I have a solid  understanding of HTML, CSS, JavaScript, and TypeScript. I am committed to continuous growth and development. I am eager to join a team, learn through hands-on experience, and contribute to the advancement of projects. "
   },
 
   "section": {
@@ -137,6 +137,14 @@
     "item7": {
       "title": "Online Zoo",
       "description": "The task is to create an adaptive website based on layout in Figma. Implement your own image slider."
+    },
+    "item8": {
+      "title": "WORDLE game",
+      "description": "WORDLE game clone, with chat and results saving."
+    },
+    "item9": {
+      "title": "Asteroids test task",
+      "description": "Online service for monitoring asteroids based on NASA API."
     }
   },
 
