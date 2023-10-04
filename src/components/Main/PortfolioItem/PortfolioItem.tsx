@@ -2,17 +2,17 @@ import { useTranslation } from 'react-i18next';
 import S from './PortfolioItem.module.css';
 import { FC } from 'react';
 
-interface PortfolioItem {
+export interface PortfolioItemType {
   title: string;
   description: string;
   stack: string;
   task?: string;
   deploy: string;
-  repository: string;
+  repository?: string;
   image: string;
 }
 
-export const PortfolioItem: FC<PortfolioItem> = ({ title, description, stack, image, task = '', deploy, repository }) => {
+export const PortfolioItem: FC<PortfolioItemType> = ({ title, description, stack, image, task, deploy, repository }) => {
   const { t } = useTranslation();
   return (
     <div className={S.portfolioItem}>
@@ -28,7 +28,7 @@ export const PortfolioItem: FC<PortfolioItem> = ({ title, description, stack, im
         <div className={S.portfolioItemLinks}>
           {task && <a href={task}>{t('portfolio.task')}</a>}
           <a href={deploy}>{t('portfolio.deploy')}</a>
-          <a href={repository}>{t('portfolio.repo')}</a>
+          {repository && <a href={repository}>{t('portfolio.repo')}</a>}
         </div>
       </div>
       <ul className={S.portfolioItemStack}>

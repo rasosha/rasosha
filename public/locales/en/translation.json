@@ -48,12 +48,17 @@
       "freelance": {
         "name": "Freelance",
         "title": "Frontend Developer",
-        "description": "Developing а responsive web application using React and Redux. Implementing complex user interface components and state management to enhance user interaction. Utilizing Git for version control and participating in code reviews. Using modern CSS frameworks to ensure an attractive and adaptive design. Conducting thorough testing and debugging to ensure а seamless user experience. Creating custom websites using React and HTML/CSS. Implementing client-side form validation and integrating with third-party API services. Collaborating with а team of developers to meet goals within tight deadlines. Participating in code reviews and learning best practices for clean and efficient code."
+        "description": "Developing а responsive web application using React and Redux. Using modern CSS frameworks to ensure an attractive and adaptive design. Collaborating with а team to meet goals within tight deadlines."
+      },
+      "railContinent2": {
+        "name": "Rail Continent",
+        "title": "System Administrator",
+        "description": "Ensuring the stability of the IT infrastructure and the security of users. Maintaining the functionality of computers, office equipment and local networks."
       },
       "railContinent": {
         "name": "Rail Continent",
         "title": "Technical Support Specialist",
-        "description": "Providing technical support to users, including prompt issue resolution, software configuration, and explaining the principles of office programs. Installing and configuring new workstations, including software and program setup according to company policies. Maintaining the functionality of computers and office equipment through preventive maintenance and component replacement. Diagnosing and troubleshooting computer, office equipment, and network issues. Designing and installing local area networks (LAN). Programming analog РВХ systems, specifically Panasonic KX-TD816. Additional responsibilities: Working with digital signatures (DS) and cryptographic protection tools (Cryptopro, ViPNet). Document processing in the ETRAN system. Interacting with the Russian Railways (RZD)."
+        "description": "Providing technical support to users, including fast issue resolution, software configuration, hardware component replacement. Diagnosing and troubleshooting computer, office equipment."
       }
     }
   },
@@ -145,6 +150,10 @@
     "item9": {
       "title": "Asteroids test task",
       "description": "Online service for monitoring asteroids based on NASA API."
+    },
+    "item10": {
+      "title": "BRAVO!MEAT",
+      "description": "Online store with adaptive design."
     }
   },
 
