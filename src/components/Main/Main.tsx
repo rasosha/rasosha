@@ -244,21 +244,23 @@ export const Main: FC = () => {
         id="portfolio"
       >
         <Title text={t('section.portfolio')} />
-        {portfolio.map((item) => {
-          return (
-            <PortfolioItem
-              key={item.id}
-              id={item.id}
-              deploy={item.deploy}
-              title={item.title}
-              description={item.description}
-              stack={item.stack}
-              image={item.image}
-              task={item.task}
-              repository={item.repository}
-            />
-          );
-        })}
+        <div className={S.certificates}>
+          {portfolio.map((item) => {
+            return (
+              <PortfolioItem
+                key={item.id}
+                id={item.id}
+                deploy={item.deploy}
+                title={item.title}
+                description={item.description}
+                stack={item.stack}
+                image={item.image}
+                task={item.task}
+                repository={item.repository}
+              />
+            );
+          })}
+        </div>
       </section>
     </main>
   );
