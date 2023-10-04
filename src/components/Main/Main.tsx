@@ -11,6 +11,7 @@ export const Main: FC = () => {
 
   const works = [
     {
+      id: 1,
       title: t('work.company.freelance.title'),
       time: `${t('month.sep')} 2022 — ${t('current')}`,
       link: 'https://www.github.com/rasosha',
@@ -18,35 +19,40 @@ export const Main: FC = () => {
       description: t('work.company.freelance.description'),
     },
     {
-      title: t('work.company.railContinent.title'),
-      time: `${t('month.jun')} 2016 — ${t('month.jul')} 2022`,
-      link: 'https://www.railcontinent.ru',
-      company: t('work.company.railContinent.name'),
-      description: t('work.company.railContinent.description'),
-    },
-    {
+      id: 2,
       title: t('work.company.railContinent2.title'),
-      time: `${t('month.jun')} 2016 — ${t('month.jul')} 2022`,
+      time: `${t('month.nov')} 2018 — ${t('month.jul')} 2022`,
       link: 'https://www.railcontinent.ru',
       company: t('work.company.railContinent2.name'),
       description: t('work.company.railContinent2.description'),
+    },
+    {
+      id: 3,
+      title: t('work.company.railContinent.title'),
+      time: `${t('month.jun')} 2016 — ${t('month.nov')} 2018`,
+      link: 'https://www.railcontinent.ru',
+      company: t('work.company.railContinent.name'),
+      description: t('work.company.railContinent.description'),
     },
   ];
 
   const education = [
     {
+      id: 1,
       title: t('education.rss.institution'),
       time: `${t('month.jun')} 2023`,
       company: t('education.rss.speciality'),
       description: t('education.rss.faculty'),
     },
     {
+      id: 2,
       title: t('education.mati.institution'),
       time: `${t('month.jun')} 2016`,
       company: t('education.mati.speciality'),
       description: t('education.mati.faculty'),
     },
     {
+      id: 3,
       title: t('education.kat.institution'),
       time: `${t('month.jun')} 2012`,
       company: t('education.kat.speciality'),
@@ -56,6 +62,7 @@ export const Main: FC = () => {
 
   const certificates = [
     {
+      id: 1,
       image: './assets/certificates/rsschool.jpg',
       title: 'React 2023 Q1',
       organization: 'The Rolling Scopes School',
@@ -63,6 +70,7 @@ export const Main: FC = () => {
       link: 'https://app.rs.school/certificate/89n9lhd8',
     },
     {
+      id: 2,
       image: './assets/certificates/efset.jpg',
       title: 'EF SET English Certificate 75/100 (C2 Proficient)',
       organization: 'EF Standard English Test (EF SET)',
@@ -70,6 +78,7 @@ export const Main: FC = () => {
       link: 'https://www.efset.org/cert/CzRdMa',
     },
     {
+      id: 3,
       image: './assets/certificates/rsschool.jpg',
       title: 'Front-end 2022 Q3',
       organization: 'The Rolling Scopes School',
@@ -77,8 +86,10 @@ export const Main: FC = () => {
       link: 'https://app.rs.school/certificate/qi69aaz5',
     },
   ];
+
   const portfolio: PortfolioItemType[] = [
     {
+      id: 1,
       title: t('portfolio.item10.title'),
       description: t('portfolio.item10.description'),
       stack: 'TypeScript, React, Next.js, tailwindcss, React Hook Form, Feature Sliced Design',
@@ -86,6 +97,7 @@ export const Main: FC = () => {
       image: './assets/portfolio/bravomeat.png',
     },
     {
+      id: 2,
       title: t('portfolio.item9.title'),
       description: t('portfolio.item9.description'),
       stack: 'TypeScript, React, Next.js',
@@ -94,6 +106,7 @@ export const Main: FC = () => {
       image: './assets/portfolio/asteroids.png',
     },
     {
+      id: 3,
       title: t('portfolio.item8.title'),
       description: t('portfolio.item8.description'),
       stack: 'TypeScript, React, Zustand, Google Firebase',
@@ -102,6 +115,7 @@ export const Main: FC = () => {
       image: './assets/portfolio/wordle.png',
     },
     {
+      id: 4,
       title: t('portfolio.item1.title'),
       description: t('portfolio.item1.description'),
       stack: 'TypeScript, React, Zustand',
@@ -111,6 +125,7 @@ export const Main: FC = () => {
       repository: 'https://github.com/rasosha/green-api',
     },
     {
+      id: 5,
       image: './assets/portfolio/graphiql.png',
       title: t('portfolio.item2.title'),
       description: t('portfolio.item2.description'),
@@ -120,6 +135,7 @@ export const Main: FC = () => {
       repository: 'https://github.com/IvanBusygin/graphiql-app/pull/22',
     },
     {
+      id: 6,
       image: './assets/portfolio/rickandmortyapi.png',
       title: t('portfolio.item3.title'),
       description: t('portfolio.item3.description'),
@@ -129,6 +145,7 @@ export const Main: FC = () => {
       repository: 'https://github.com/rasosha/react/pull/5',
     },
     {
+      id: 7,
       image: './assets/portfolio/online-store.png',
       title: t('portfolio.item4.title'),
       description: t('portfolio.item4.description'),
@@ -138,6 +155,7 @@ export const Main: FC = () => {
       repository: 'https://github.com/raNYnight/online-store/pull/4',
     },
     {
+      id: 8,
       image: './assets/portfolio/songbird.png',
       title: t('portfolio.item5.title'),
       description: t('portfolio.item5.description'),
@@ -147,6 +165,7 @@ export const Main: FC = () => {
       repository: 'https://github.com/rasosha/RS-School/tree/develop/songbird',
     },
     {
+      id: 9,
       image: './assets/portfolio/gempuzzle.png',
       title: t('portfolio.item6.title'),
       description: t('portfolio.item6.description'),
@@ -156,6 +175,7 @@ export const Main: FC = () => {
       repository: 'https://github.com/rasosha/RS-School/tree/develop/gempuzzle',
     },
     {
+      id: 10,
       image: './assets/portfolio/online-zoo.png',
       title: t('portfolio.item7.title'),
       description: t('portfolio.item7.description'),
@@ -176,8 +196,12 @@ export const Main: FC = () => {
           {works.map((work) => {
             return (
               <Card
-                {...work}
-                key={work.company}
+                key={work.id}
+                company={work.company}
+                description={work.description}
+                link={work.link}
+                time={work.time}
+                title={work.title}
               />
             );
           })}
@@ -223,6 +247,8 @@ export const Main: FC = () => {
         {portfolio.map((item) => {
           return (
             <PortfolioItem
+              key={item.id}
+              id={item.id}
               deploy={item.deploy}
               title={item.title}
               description={item.description}

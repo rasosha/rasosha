@@ -3,6 +3,7 @@ import S from './PortfolioItem.module.css';
 import { FC } from 'react';
 
 export interface PortfolioItemType {
+  id: number;
   title: string;
   description: string;
   stack: string;
