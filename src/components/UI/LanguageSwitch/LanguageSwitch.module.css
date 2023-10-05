@@ -32,18 +32,19 @@
   background-size: contain;
   opacity: 0.5;
   overflow: hidden;
+  transition: all 0.2s;
 }
 
 .reactSwitchCheckbox:checked + .reactSwitchLabel .reactSwitchButton {
   left: calc(100% - 2px);
   transform: translateX(-100%);
   background-image: url('../../../assets/language/ru.png');
+  transition: all 0.2s;
 }
 
 .reactSwitchLabel:hover .reactSwitchButton {
   opacity: 1;
 }
-/* 
 .reactSwitchButton:before {
   content: '';
   position: absolute;
@@ -55,7 +56,7 @@
   transform: translateX(-200%) skewX(-45deg);
 }
 
-.reactSwitchButton:hover:before {
+.reactSwitchLabel:hover .reactSwitchButton:before {
   animation: blink 1s;
 }
 
@@ -66,4 +67,4 @@
   to {
     transform: translateX(1000%) skewX(-45deg);
   }
-} */
+}
