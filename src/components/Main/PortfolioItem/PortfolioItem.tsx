@@ -27,9 +27,28 @@ export const PortfolioItem: FC<PortfolioItemType> = ({ title, description, stack
           className={S.portfolioItemImage}
         />
         <div className={S.portfolioItemLinks}>
-          {task && <a href={task}>{t('portfolio.task')}</a>}
-          <a href={deploy}>{t('portfolio.deploy')}</a>
-          {repository && <a href={repository}>{t('portfolio.repo')}</a>}
+          {task && (
+            <a
+              target="_blank"
+              href={task}
+            >
+              {t('portfolio.task')}
+            </a>
+          )}
+          <a
+            target="_blank"
+            href={deploy}
+          >
+            {t('portfolio.deploy')}
+          </a>
+          {repository && (
+            <a
+              target="_blank"
+              href={repository}
+            >
+              {t('portfolio.repo')}
+            </a>
+          )}
         </div>
       </div>
       <ul className={S.portfolioItemStack}>

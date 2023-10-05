@@ -104,6 +104,7 @@ export const Main: FC = () => {
       deploy: 'https://armageddon-ras.vercel.app',
       repository: 'https://github.com/rasosha/kvartirka-test',
       image: './assets/portfolio/asteroids.png',
+      task: 'https://docs.google.com/document/d/1bSC3hgaYe69FJFKKNFHKokJ2Rs0bxkYQ9ixnBS8xn-M/edit#heading=h.zhvqi4h9zsj2',
     },
     {
       id: 3,
